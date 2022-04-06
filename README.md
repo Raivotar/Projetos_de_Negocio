@@ -1,7 +1,7 @@
 # Entendendo o Problema:
-Nesse projeto vamos trabalhar o conjunto de dados "Credit Card Customers" da plataforma Kaggle (https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
-Gerente do banco está preocupado com a evasão de clientes que usam cartão de crédito.
-Nos foi fornecido uma carteira de clientes para fazer um modelo preditivo e aplicar esse modelos em outras carteiras para identificar os clientes propensos a evadir e fazer um contato preventivo a esses clientes.
+- Nesse projeto vamos trabalhar o conjunto de dados "Credit Card Customers" da plataforma Kaggle (https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
+- Gerente do banco está preocupado com a evasão de clientes que usam cartão de crédito.
+- Nos foi fornecido uma carteira de clientes para fazer um modelo preditivo e aplicar esse modelos em outras carteiras para identificar os clientes propensos a evadir e fazer um contato preventivo a esses clientes.
 # Analise Exploratória:
 - Visualização das variáveis e escolha das variáveis.
 # Tratamento dos dados
